@@ -1,67 +1,14 @@
 {
     "entry": [
         {
-            "Title": "Careers",
-            "Slug": "driving/careers/",
-            "Body": "",
-            "Matrix": {
-                "MatrixBlock": [
-                    {
-                        "LayoutTitle": "",
-                        "LayoutCTA Label": "",
-                        "LayoutCTA Link": "",
-                        "LayoutContent": "<h1>Join our team and help us drive education forward</h1>",
-                        "LayoutImage": "https://ace.imgix.net/uploads/sites/4/2020/05/teamphoto-1.jpg",
-                        "LayoutButton0Href": "/company/",
-                        "LayoutButton0Title": "Our Company",
-                        "LayoutButton1Href": "/#openings",
-                        "LayoutButton1Title": "Current Openings",
-                        "LayoutClassNames": "bg-brand py-3 text-white",
-                        "LayoutAlignment": "left"
-                    },
-                    {
-                        "MultiColumnTitle": "<h2>What we do</h2>",
-                        "MultiColumnCTA Label": "",
-                        "MultiColumnCTA Link": "",
-                        "MultiColumnContent": "<p>Built by former teachers, NASA engineers and those passionate about education, the Austin-based team is obsessed with helping people with life’s certification challenges. After launching its first mobile app to provide accredited driver’s ed courses, Aceable is now expanding into other verticals for certification, including, most recently, real estate continuing education. To date, Aceable touts more than 650,000 users and counting, as it continues to expand nationwide.</p>",
-                        "MultiColumnImage": "",
-                        "MultiColumnClassNames": "col-md-8 m-auto text-center",
-                        "MultiColumnAlignment": "left"
-                    },
-                    {
-                        "LayoutTitle": "",
-                        "LayoutCTA Label": "",
-                        "LayoutCTA Link": "",
-                        "LayoutContent": "<h2>Located in downtown ATX</h2>",
-                        "LayoutImage": "https://ace.imgix.net/uploads/sites/5/2018/10/common-space-1.jpg",
-                        "LayoutButton0Href": "/#openings",
-                        "LayoutButton0Title": "Come Work With Us",
-                        "LayoutClassNames": "bg-light py-3",
-                        "LayoutAlignment": "left"
-                    },
-                    {
-                        "MultiColumnTitle": "<h2>How we work</h2>",
-                        "MultiColumnCTA Label": "",
-                        "MultiColumnCTA Link": "",
-                        "MultiColumnContent": "<p>At Aceable, we are passionate about empowering people to learn. We’ve got big ideas and even bigger hearts. We work hard every day to make required learning and education easy, enjoyable and accessible for everyone — because that’s the way it should be. Our core values guide our interactions with our customers and one another in the workplace, and despite our constantly growing team, these values remain a constant.</p><p>As Aces, we celebrate and support all differences. Aceable is proud to be an equal opportunity workplace. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital, disability, and veteran status. One way we aim to accomplish this is through our signing of the Diversity Pledge.</p><p><img src=\"https://aceable-illuminati.s3.amazonaws.com/uploads/sites/4/2019/05/jpeg-100.jpg\" alt=\"\" width=\"274\" height=\"115\" class=\"alignnone size-full wp-image-1735\" /></p>\n",
-                        "MultiColumnImage": "",
-                        "MultiColumnClassNames": "col-md-8 m-auto text-center",
-                        "MultiColumnAlignment": "left"
-                    },
-                    {
-                        "LayoutTitle": "",
-                        "LayoutCTA Label": "",
-                        "LayoutCTA Link": "",
-                        "LayoutContent": "<h2>Perks at Aceable</h2><ul><li>Competitive salary and benefits</li><li>Our own space on the top floor of a downtown building</li><li>Generous paid time off</li><li>Transportation stipend</li><li>Passionate, high-achieving teammates excited to help you succeed and learn</li><li>Education stipend</li></ul>",
-                        "LayoutImage": "https://ace.imgix.net/uploads/sites/4/2021/09/TopWorkPlaces2021.png",
-                        "LayoutClassNames": "bg-light py-3",
-                        "LayoutAlignment": "left"
-                    }
-                ]
-            },
-            "Leader": {
-                "LeaderBlock": []
-            }
+            "seoT": "Right of Way on Different Landed Roads: Bigger Is Better",
+            "seoDescription": "Ever wonder who has the right of way at an intersection? Check out our video to see who should go first in different situations.",
+            "Title": "Right of Way on Different Landed Roads: Bigger Is Better",
+            "HeroTitle": "<h2>Right of Way on Different Landed Roads: Bigger Is Better</h2>",
+            "Description": "Ever wonder who has the right of way at an intersection? Check out our video to see who should go first in different situations.",
+            "HeroBackground": "teal-gradient",
+            "Slug": "driving/safe-driving/right-of-way-different-landed-roads/",
+            "Body": "When it comes to right-of-way rules, bigger is better. Why? When a bigger road intersects with a smaller road, the road with the most lanes always has right of way, meaning vehicles on that road do not have to stop or yield to let other cars in. Let’s explore what happens when a road with one lane meets a road with multiple lanes.\r\n\r\n[youtube video_id=\"6Khj27j_OzM\" max_width=\"500\"]"
         }
     ]
 }
