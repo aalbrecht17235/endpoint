@@ -2,8 +2,10 @@
     "entry": {
         "entryList": [
             {
-                "seoT": "Right of Way on Different Landed Roads: Bigger Is Better",
-                "seoDescription": "Ever wonder who has the right of way at an intersection? Check out our video to see who should go first in different situations.",
+                "SEO": {
+                    "seoT": "Right of Way on Different Landed Roads: Bigger Is Better",
+                    "seoDescription": "Ever wonder who has the right of way at an intersection? Check out our video to see who should go first in different situations."
+                },
                 "Title": "<h2>Right of Way on Different Landed Roads: Bigger Is Better</h2>",
                 "Description": "Ever wonder who has the right of way at an intersection? Check out our video to see who should go first in different situations.",
                 "HeroBackground": "teal-gradient",
