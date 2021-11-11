@@ -1,13 +1,15 @@
 {
-    "entry": [
-        {
-            "seoTitle": "Right of Way on Different Landed Roads: Bigger Is Better",
-            "seoDescription": "Ever wonder who has the right of way at an intersection? Check out our video to see who should go first in different situations.",
-            "Title": "Right of Way on Different Landed Roads: Bigger Is Better",
-            "Description": "Ever wonder who has the right of way at an intersection? Check out our video to see who should go first in different situations.",
-            "HeroBackground": "teal-gradient",
-            "Slug": "driving/safe-driving/right-of-way-different-landed-roads/",
-            "Body": "<p>When it comes to right-of-way rules, bigger is better. Why? When a bigger road intersects with a smaller road, the road with the most lanes always has right of way, meaning vehicles on that road do not have to stop or yield to let other cars in. Let’s explore what happens when a road with one lane meets a road with multiple lanes.</p>\n<template><ShortcodeYoutube :config='{\"max_width\":\"500\",\"video_id\":\"6Khj27j_OzM\",\"shortcode-classes\":\"d-flex py-3\",\"shortcode-extension-classes\":\"justify-content-center\"}' shortcode-classes='d-flex py-3' shortcode-extension-classes='justify-content-center'></ShortcodeYoutube></template>\n"
-        }
-    ]
+    "entry": {
+        "entryList": [
+            {
+                "seoTitle": "Right of Way on Different Landed Roads: Bigger Is Better",
+                "seoDescription": "Ever wonder who has the right of way at an intersection? Check out our video to see who should go first in different situations.",
+                "Title": "Right of Way on Different Landed Roads: Bigger Is Better",
+                "Description": "Ever wonder who has the right of way at an intersection? Check out our video to see who should go first in different situations.",
+                "HeroBackground": "teal-gradient",
+                "Slug": "driving/safe-driving/right-of-way-different-landed-roads/",
+                "Body": "<p>When it comes to right-of-way rules, bigger is better. Why? When a bigger road intersects with a smaller road, the road with the most lanes always has right of way, meaning vehicles on that road do not have to stop or yield to let other cars in. Let’s explore what happens when a road with one lane meets a road with multiple lanes.</p>\n<template><ShortcodeYoutube :config='{\"max_width\":\"500\",\"video_id\":\"6Khj27j_OzM\",\"shortcode-classes\":\"d-flex py-3\",\"shortcode-extension-classes\":\"justify-content-center\"}' shortcode-classes='d-flex py-3' shortcode-extension-classes='justify-content-center'></ShortcodeYoutube></template>\n"
+            }
+        ]
+    }
 }
