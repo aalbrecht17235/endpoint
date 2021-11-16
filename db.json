@@ -5,13 +5,14 @@
               {
                   "seoTitle": "How to Check Your Car's Oil Level",
                   "seoDescription": "Learning how to check your oil might sound tough. But trust us, it's so easy it's going to blow your mind. Check out our step-by-step guide.",
-                  "Title": "How to Check Your Oil",
+                  
                   "SafeDriving": {
                       "SafeDrivingBlock": []
                   },
                   "Generic": {
                       "GenericBlock": [
                           {
+                              "Title": "How to Check Your Oil",
                               "LayoutBackground": "light-grey-gradient",
                               "LayoutTitle": "<h2 class=\"text-center\">How to Check Your Oil</h2><p>Learning how to check your oil might sound tough. But trust us, it's so easy it's going to blow your mind. Check out our step-by-step guide.</p>"
                           },
@@ -28,13 +29,14 @@
               {
                   "seoTitle": "Finding the Best Mechanic With Patrice Banks",
                   "seoDescription": "Your relationship with your mechanic is important. Learn how to assess a repair garage to make sure this is the place that you can trust.",
-                  "Title": "How to Choose the Right Auto Mechanic2",
+                  "Title": "How to Choose the Right Auto Mechanic",
                   "SafeDriving": {
                       "SafeDrivingBlock": []
                   },
                   "Generic": {
                       "GenericBlock": [
                           {
+                            "Title": "How to Check Your Oil",
                               "LayoutBackground": "light-grey-gradient",
                               "LayoutTitle": "<h2 class=\"text-center\">How to Choose the Right Auto Mechanic</h2><p>Your relationship with your mechanic is important. Learn how to assess a repair garage to make sure this is the place that you can trust.</p>"
                           },
