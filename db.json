@@ -19,18 +19,18 @@
                     },
                     {
                       "breadcrumb":[
-                          {
+                          [{
                               "Link": "hello",
                               "Text": "hello"
-                          },
-                          {
+                          }],
+                          [{
                               "Link": "hello",
                               "Text": "hello"
-                          },
-                          {
+                          }],
+                          [{
                               "Link": "hello",
                               "Text": "hello"
-                          }
+                          }]
                       ]
                     }
                 ]
