@@ -18,8 +18,16 @@
                         "MultiColumnBody": "<p> These traffic signs are bright yellow\n"
                     },
                     {
-                      "breadcrumb": [[{"Link":"hello1", "Text":"hello1"}], [{"Link":"hello2", "Text":"hello2"}], [{"Link":"hello3", "Text":"hello3"}]]
-
+                      "BreadcrumbLink": "hello1",
+                      "BreadcrumbText": "hello1"
+                    },
+                    {
+                      "BreadcrumbLink": "hello2",
+                      "BreadcrumbText": "hello2"
+                    },
+                    {
+                      "BreadcrumbLink": "hello3",
+                      "BreadcrumbText": "hello3"
                     }
                 ]
             },
