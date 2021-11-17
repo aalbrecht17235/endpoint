@@ -1,35 +1,21 @@
 {
     "entryList": [
         {
-            "seoTitle": "It Must Be a Sign: Five Warning Signs You Should Know About",
-            "seoDescription": "Warning signs will let you know you road is about to get narrower, change pavement types, or drop off onto the shoulder. Drive carefully when you see these!",
-            "Title": "It Must Be a Sign: Five Warning Signs You Should Know About",
-            "Slug": "safe-driving--warning-signs-you-should-know-about",
+            "seoTitle": null,
+            "seoDescription": "Aceable’s Terms and Conditions for Florida Driver’s Ed",
+            "Title": "FL  -  Terms & Conditions",
+            "Slug": "tandc--fl-de",
             "SafeDriving": {
-                "SafeDrivingBlock": [
-                    {
-                        "LayoutBackground": "teal-gradient",
-                        "LayoutTitle": "<h1>It Must Be a Sign: Five Warning Signs You Shoulde!</p>",
-                        "LayoutBody": ""
-                    },
-                    {
-                        "MultiColumnBackground": "teal-gradient",
-                        "MultiColumnTitle": "",
-                        "MultiColumnBody": "<p> These traffic signs are bright yellow\n"
-                    },
-                    {
-                      "breadcrumb": [{"Link":"hello", "Text":"hello"}, {"Link":"hello1", "Text":"hello1"}, {"Link":"hello2", "Text":"hello2"}]
-                    }
-                ]
+                "SafeDrivingBlock": []
             },
             "Generic": {
                 "GenericBlock": [
                     {
                         "LayoutBackground": "light-grey-gradient",
-                        "LayoutTitle": "<h2 class=\"text-centerly when you see these!</p>"
+                        "LayoutTitle": "<h2 class=\"text-center\">FL  -  Terms & Conditions</h2><p>Aceable’s Terms and Conditions for Florida Driver’s Ed</p>"
                     },
                     {
-                        "MultiColumnBody": "<p> These traffic signs are bright yellow\n"
+                        "MultiColumnBody": "<p><strong>Background</strong>. of. These Stcles</li>\n</ul>\n"
                     }
                 ]
             }
