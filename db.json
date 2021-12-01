@@ -2,7 +2,7 @@
     "entryList": [
         {
             "seoTitle": "State-Approved Online Drivers Ed",
-            "seoDescription": "Our stateable.com has taught over 1 million students, and is highly rated on online drivers education.",
+            "seoDescription": "Our state approved online drivers ed courses were developed by in class professionals to help you earn a drivers license with ease. Aceable.com has taught over 1 million students, and is highly rated on online drivers education.",
             "Title": "Aceable - Drivers Ed Directory",
             "Slug": "driving/drivers-ed/",
             "Body": "",
@@ -12,17 +12,15 @@
                         "LayoutDropdownContent": "",
                         "LayoutDropdownTitle": "Select a State",
                         "LayoutDropdownBlock": [
-                            [
-                                {
-                                    "content": "Top States",
-                                    "itemExtensionClasses": "pl-dropdown__title separator",
-                                    "href": ""
-                                },
-                                {
-                                    "content": "Texas Parent Taught Drivers Ed",
-                                    "href": "/drivers-ed/texas-parent-taught/"
-                                }
-                            ]
+                            {
+                                "content": "Top States",
+                                "itemExtensionClasses": "pl-dropdown__title separator",
+                                "href": ""
+                            },
+                            {
+                                "content": "Texas Parent Taught Drivers Ed",
+                                "href": "/drivers-ed/texas-parent-taught/"
+                            }
                         ]
                     }
                 ]
@@ -31,30 +29,28 @@
                 "CourseBlock": [
                     {
                         "ProductBlock": [
-                            [
-                                {
-                                    "designation": "TDLR Course #116",
-                                    "title": "Texas Parent Taught Drivers Ed (PTDE)",
-                                    "link": "/drivers-ed/texas-parent-taught/",
-                                    "productId": "1z45V4OWKu",
-                                    "coupon": "PTDEAW69",
-                                    "price": {
-                                        "original": "$115",
-                                        "sale": "$60"
-                                    }
-                                },
-                                {
-                                    "designation": "TDLR Course #C2839",
-                                    "title": "Texas Instructor Taught Drivers Ed",
-                                    "link": "/drivers-ed/texas-instructor-taught/",
-                                    "productId": "ztxEkBHCIE",
-                                    "coupon": "TXINSTRUCTORDE",
-                                    "price": {
-                                        "original": "$134",
-                                        "sale": "$100"
-                                    }
+                            {
+                                "designation": "TDLR Course #116",
+                                "title": "Texas Parent Taught Drivers Ed (PTDE)",
+                                "link": "/drivers-ed/texas-parent-taught/",
+                                "productId": "1z45V4OWKu",
+                                "coupon": "PTDEAW69",
+                                "price": {
+                                    "original": "$115",
+                                    "sale": "$60"
                                 }
-                            ]
+                            },
+                            {
+                                "designation": "TDLR Course #C2839",
+                                "title": "Texas Instructor Taught Drivers Ed",
+                                "link": "/drivers-ed/texas-instructor-taught/",
+                                "productId": "ztxEkBHCIE",
+                                "coupon": "TXINSTRUCTORDE",
+                                "price": {
+                                    "original": "$134",
+                                    "sale": "$100"
+                                }
+                            }
                         ]
                     }
                 ]
