@@ -2,6 +2,7 @@
     "entryList": [
         {
             "seoTitle": "State-Approved Online Drivers Ed",
+            "seoDescription": "Our state approved online drivers ed courses were developed by in class professionals to help you earn a drivers license with ease. Aceable.com has taught over 1 million students, and is highly rated on online drivers education.",
             "Title": "Aceable - Drivers Ed Directory",
             "Slug": "driving/drivers-ed/",
             "Body": "",
@@ -11,40 +12,68 @@
                         "LayoutDropdownContent": "",
                         "LayoutDropdownTitle": "Select a State",
                         "LayoutDropdownBlock": [
-                            {
-                                "content": "Top States",
-                                "itemExtensionClasses": "pl-dropdown__title separator",
-                                "href": ""
-                            },
-                            {
-                                "content": "Texas Parent Taught Drivers Ed",
-                                "href": "/drivers-ed/texas-parent-taught/"
-                            }
+                            
+                                {
+                                    "content": "Top States",
+                                    "itemExtensionClasses": "pl-dropdown__title separator",
+                                    "href": ""
+                                },
+                                {
+                                    "content": "Texas Parent Taught Drivers Ed",
+                                    "href": "/drivers-ed/texas-parent-taught/"
+                                },
+                                {
+                                    "content": "Texas Instructor Taught Drivers Ed",
+                                    "href": "/drivers-ed/texas-instructor-taught/"
+                                }
+                            
                         ]
                     }
-                ],
-                "ProductBlock": [
+                ]
+            },
+            "CourseMatrix": {
+                "CourseBlock": [
                     {
-                        "designation": "TDLR Course #116",
-                        "title": "Texas Parent Taught Drivers Ed (PTDE)",
-                        "link": "/drivers-ed/texas-parent-taught/",
-                        "productId": "1z45V4OWKu",
-                        "coupon": "PTDEAW69",
-                        "linkBlock": [{
-                            "original": "$115",
-                            "sale": "$60"
-                        }]
-                    },
-                    {
-                        "designation": "TDLR Course #C2839",
-                        "title": "Texas Instructor Taught Drivers Ed",
-                        "link": "/drivers-ed/texas-instructor-taught/",
-                        "productId": "ztxEkBHCIE",
-                        "coupon": "TXINSTRUCTORDE",
-                        "linkBlock": [{
-                            "original": "$115",
-                            "sale": "$60"
-                        }]
+                        "ProductBlock": [
+                            
+                                {
+                                    "designation": "TDLR Course #116",
+                                    "title": "Texas Parent Taught Drivers Ed (PTDE)",
+                                    "description": "Six hours with this course and you could be in the driver's seat! Includes Texas DPS written exam, a parent account, and behind-the-wheel training tools.",
+                                    "link": "/drivers-ed/texas-parent-taught/",
+                                    "productId": "1z45V4OWKu",
+                                    "coupon": "PTDEAW69",
+                                    "price": {
+                                        "original": "$115",
+                                        "sale": "$60"
+                                    }
+                                },
+                                {
+                                    "designation": "TDLR Course #C2839",
+                                    "title": "Texas Instructor Taught Drivers Ed",
+                                    "description": "Get your Texas driving permit quickly with this course. Course includes your Texas DPS written exam and gives you the option to choose your behind-the-wheel provider.",
+                                    "link": "/drivers-ed/texas-instructor-taught/",
+                                    "productId": "ztxEkBHCIE",
+                                    "coupon": "TXINSTRUCTORDE",
+                                    "price": {
+                                        "original": "$134",
+                                        "sale": "$100"
+                                    }
+                                },
+                                {
+                                    "designation": "TDLR Course #C2839",
+                                    "title": "Texas Adult Drivers Ed",
+                                    "description": "Pass the course and skip the DPS written test with adult drivers ed. In just six hours you could be hitting the road, Aceable style.",
+                                    "link": "/drivers-ed/texas-adult/",
+                                    "productId": "jj51YsV07s",
+                                    "coupon": "ADEAW0",
+                                    "price": {
+                                        "original": "$68",
+                                        "sale": "$34.95*"
+                                    }
+                                }
+                            
+                        ]
                     }
                 ]
             }
