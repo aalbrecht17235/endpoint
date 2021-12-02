@@ -19,7 +19,7 @@
                         "LayoutDropdownContent": "",
                         "LayoutDropdownTitle": "Select a State",
                         "LayoutDropdownBlock": [
-                            [
+                            
                                 {
                                     "content": "Top States",
                                     "itemExtensionClasses": "pl-dropdown__title separator",
@@ -85,7 +85,7 @@
                                     "content": "Texas Drivers Ed",
                                     "href": "/drivers-ed/texas/"
                                 }
-                            ]
+                            
                         ]
                     }
                 ]
