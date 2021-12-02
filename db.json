@@ -18,6 +18,7 @@
                     {
                         "LayoutDropdownContent": "",
                         "LayoutDropdownTitle": "Select a State",
+                        "Dropdown": {
                         "LayoutDropdownBlock": [
                             
                                 {
@@ -87,6 +88,7 @@
                                 }
                             
                         ]
+                    }
                     }
                 ]
             }
