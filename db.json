@@ -30,10 +30,10 @@
                                     "link": "/drivers-ed/texas-adult/",
                                     "productId": "jj51YsV07s",
                                     "coupon": "ADEAW0",
-                                    "price": {
-                                        "original": "$68",
-                                        "sale": "$34.95*"
-                                    }
+                                    "priceBlock": [{
+                                        "original": "$678",
+                                        "sale": "$394.95*"
+                                    }]
                                 },
                                 {
                                     "designation": "DMV Course #E2017",
@@ -42,10 +42,10 @@
                                     "link": "/drivers-ed/california/",
                                     "productId": "tCKuLS8UpY",
                                     "coupon": "CADRIVERSED",
-                                    "price": {
-                                        "original": "$79",
-                                        "sale": "$59"
-                                    }
+                                    "priceBlock": [{
+                                        "original": "$638",
+                                        "sale": "$354.95*"
+                                    }]
                                 },
                                 {
                                     "designation": "Dep. of Education Licensed",
@@ -54,10 +54,10 @@
                                     "link": "/drivers-ed/pennsylvania/",
                                     "productId": "zBMuQbGe54",
                                     "coupon": "PADRIVERSED",
-                                    "price": {
-                                        "original": "$107",
-                                        "sale": "$80"
-                                    }
+                                    "priceBlock": [{
+                                        "original": "$684",
+                                        "sale": "$342.95*"
+                                    }]
                                 }
                             ]
                         ]
