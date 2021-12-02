@@ -6,66 +6,84 @@
             "Title": "Aceable - Drivers Ed Directory",
             "Slug": "drivers-ed",
             "Body": "",
-            "CourseMatrix": {
-                "CourseBlock": [
+            "Matrix": {
+                "MatrixBlock": [
                     {
-                        "ProductBlock": [
+                        "LayoutContent": "<h1>Drivers Ed Online</h1><h3>State approved & certified online driving course</h3><p>Learn the skills you need to become a safe driver with our fun-sized lesson plans and interactive teaching methods. No matter your learning style, our videos, pop-up questions, and robot voice-over can help you understand and retain the information on our drivers ed online course. With our mobile platform and portable content, the world is your classroom. If you have any questions about our drivers ed classes, Aceable can assist you.\n</p>",
+                        "LayoutTitle": "",
+                        "LayoutBlock": [
+                            null
+                        ]
+                    },
+                    {
+                        "LayoutDropdownContent": "",
+                        "LayoutDropdownTitle": "Select a State",
+                        "LayoutDropdownBlock": [
                             [
                                 {
-                                    "designation": "TDLR Course #116",
-                                    "title": "Texas Parent Taught Drivers Ed (PTDE)",
-                                    "description": "Six hours with this course and you cod behind-the-wheel training tools.",
-                                    "link": "/drivers-ed/texas-parent-taught/",
-                                    "productId": "1z45V4OWKu",
-                                    "coupon": "PTDEAW69",
-                                    "priceMatrix": {
-                                        "priceBlock": [{
-                                        "original": "$678",
-                                        "sale": "$394.95*"
-                                        }]
-                                    }
+                                    "content": "Top States",
+                                    "itemExtensionClasses": "pl-dropdown__title separator",
+                                    "href": ""
                                 },
                                 {
-                                    "designation": "TDLR Course #C2839",
-                                    "title": "Texas Adult Drivers Ed",
-                                    "description": "Pass the course and skip the DPAceable style.",
-                                    "link": "/drivers-ed/texas-adult/",
-                                    "productId": "jj51YsV07s",
-                                    "coupon": "ADEAW0",
-                                    "priceMatrix": {
-                                        "priceBlock": [{
-                                        "original": "$678",
-                                        "sale": "$394.95*"
-                                        }]
-                                    }
+                                    "content": "Texas Parent Taught Drivers Ed",
+                                    "href": "/drivers-ed/texas-parent-taught/"
                                 },
                                 {
-                                    "designation": "DMV Course #E2017",
-                                    "title": "California Teen Drivers Ed",
-                                    "description": "Use Aceable’s study guide, practice testh our easy-to-use mobile course and engaging content, you’ll be cruising down Route 1 in no time.",
-                                    "link": "/drivers-ed/california/",
-                                    "productId": "tCKuLS8UpY",
-                                    "coupon": "CADRIVERSED",
-                                    "priceMatrix": {
-                                        "priceBlock": [{
-                                        "original": "$678",
-                                        "sale": "$394.95*"
-                                        }]
-                                    }
+                                    "content": "Texas Instructor Taught Drivers Ed",
+                                    "href": "/drivers-ed/texas-instructor-taught/"
                                 },
                                 {
-                                    "designation": "Dep. of Education Licensed",
-                                    "title": "Pennsylvania Drivers Ed",
-                                    "description": "Skip the classroom and learn to drive with tfor drivers ed.",
-                                    "link": "/drivers-ed/pennsylvania/",
-                                    "productId": "zBMuQbGe54",
-                                    "coupon": "PADRIVERSED",
-                                    "priceMatrix": {
-                                        "priceBlock": [{
-                                        "original": "$678",
-                                        "sale": "$394.95*"
-                                        }]
-                                    }
+                                    "content": "Texas Drivers Ed",
+                                    "href": "/drivers-ed/texas"
+                                },
+                                {
+                                    "content": "California Drivers Ed",
+                                    "href": "/drivers-ed/california/"
+                                },
+                                {
+                                    "content": "Ohio Drivers Ed",
+                                    "href": "/drivers-ed/ohio/"
+                                },
+                                {
+                                    "content": "All States",
+                                    "itemExtensionClasses": "pl-dropdown__title separator"
+                                },
+                                {
+                                    "content": "California Drivers Ed",
+                                    "href": "/drivers-ed/california/"
+                                },
+                                {
+                                    "content": "Florida Drivers Ed",
+                                    "href": "/drivers-ed/florida/"
+                                },
+                                {
+                                    "content": "Georgia Drivers Ed",
+                                    "href": "/drivers-ed/georgia/"
+                                },
+                                {
+                                    "content": "Illinois Drivers Ed",
+                                    "href": "/drivers-ed/illinois/"
+                                },
+                                {
+                                    "content": "Nevada Drivers Ed",
+                                    "href": "/drivers-ed/nevada/"
+                                },
+                                {
+                                    "content": "Ohio Drivers Ed",
+                                    "href": "/drivers-ed/ohio/"
+                                },
+                                {
+                                    "content": "Oklahoma Drivers Ed",
+                                    "href": "/drivers-ed/oklahoma/"
+                                },
+                                {
+                                    "content": "Pennsylvania Drivers Ed",
+                                    "href": "/drivers-ed/pennsylvania/"
+                                },
+                                {
+                                    "content": "Texas Drivers Ed",
+                                    "href": "/drivers-ed/texas/"
                                 }
                             ]
                         ]
