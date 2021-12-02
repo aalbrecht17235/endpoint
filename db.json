@@ -18,9 +18,11 @@
                                     "link": "/drivers-ed/texas-parent-taught/",
                                     "productId": "1z45V4OWKu",
                                     "coupon": "PTDEAW69",
-                                    "price": {
-                                        "original": "$115",
-                                        "sale": "$60"
+                                    "priceMatrix": {
+                                        "priceBlock": [{
+                                        "original": "$678",
+                                        "sale": "$394.95*"
+                                        }]
                                     }
                                 },
                                 {
@@ -30,10 +32,12 @@
                                     "link": "/drivers-ed/texas-adult/",
                                     "productId": "jj51YsV07s",
                                     "coupon": "ADEAW0",
-                                    "priceBlock": [{
+                                    "priceMatrix": {
+                                        "priceBlock": [{
                                         "original": "$678",
                                         "sale": "$394.95*"
-                                    }]
+                                        }]
+                                    }
                                 },
                                 {
                                     "designation": "DMV Course #E2017",
@@ -42,10 +46,12 @@
                                     "link": "/drivers-ed/california/",
                                     "productId": "tCKuLS8UpY",
                                     "coupon": "CADRIVERSED",
-                                    "priceBlock": [{
-                                        "original": "$638",
-                                        "sale": "$354.95*"
-                                    }]
+                                    "priceMatrix": {
+                                        "priceBlock": [{
+                                        "original": "$678",
+                                        "sale": "$394.95*"
+                                        }]
+                                    }
                                 },
                                 {
                                     "designation": "Dep. of Education Licensed",
@@ -54,10 +60,12 @@
                                     "link": "/drivers-ed/pennsylvania/",
                                     "productId": "zBMuQbGe54",
                                     "coupon": "PADRIVERSED",
-                                    "priceBlock": [{
-                                        "original": "$684",
-                                        "sale": "$342.95*"
-                                    }]
+                                    "priceMatrix": {
+                                        "priceBlock": [{
+                                        "original": "$678",
+                                        "sale": "$394.95*"
+                                        }]
+                                    }
                                 }
                             ]
                         ]
