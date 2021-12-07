@@ -23,20 +23,22 @@
                         "coupon": "PTDEAW69"
                     },
                     {
-                        "LinkBlock": [
-                            {
-                                "text": "hello",
-                                "link": "/drivers-ed/texas-parent-taught/"
-                            },
-                            {
-                                "text": "hello2",
-                                "link": "/drive2rs-ed/texas-parent-taught/"
-                            },
-                            {
-                                "text": "hello3",
-                                "link": "/driv3ers-ed/texas-parent-taught/"
-                            }
-                        ]
+                        "LinkMatrix": {
+                            "LinkBlock": [
+                                {
+                                    "text": "hello",
+                                    "link": "/drivers-ed/texas-parent-taught/"
+                                },
+                                {
+                                    "text": "hello2",
+                                    "link": "/drive2rs-ed/texas-parent-taught/"
+                                },
+                                {
+                                    "text": "hello3",
+                                    "link": "/driv3ers-ed/texas-parent-taught/"
+                                }
+                            ]
+                        }
                     }
                 ]
             }
