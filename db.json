@@ -1,44 +1,45 @@
 {
     "entryList": [
-      {
-        "seoTitle": "State-Approved Online Drivers Ed",
-        "seoDescription": "Our state approved online drivers ed courses were developed by in class professionals to help you earn a drivers license with ease. Aceable.com has taught over 1 million students, and is highly rated on online drivers education.",
-        "Title": "Aceable - Drivers Ed Directory",
-        "Slug": "drivers-ed",
-        "Body": "",
-        "CourseMatrix": {
-          "CourseBlock": [
-            {
-              "designation": "TDLR Course #116",
-              "title": "Texas Parent Taught Drivers Ed (PTDE)",
-              "description": "Six hours with this course and you could be in the driver's seat! Includes Texas DPS written exam, a parent account, and behind-the-wheel training tools.",
-              "productId": "1z45V4OWKu",
-              "coupon": "PTDEAW69"          
-            },
-            {
-              "designation": "TDLR Course #11623",
-              "title": "Texas Parent Taught D123rivers Ed (PTDE)",
-              "description": "Six hours with this course and you could be in the driver's seat! Includes Texas DPS written exam, a parent account, and behind-the-wheel training tools.",
-              "productId": "1z45V4OWKu",
-              "coupon": "PTDEAW69"        
+        {
+            "seoTitle": "State-Approved Online Drivers Ed",
+            "seoDescription": "Our state approved online drivers ed courses were developed by in class professionals to help you earn a drivers license with ease. Aceable.com has taught over 1 million students, and is highly rated on online drivers education.",
+            "Title": "Aceable - Drivers Ed Directory",
+            "Slug": "drivers-ed",
+            "Body": "",
+            "CourseMatrix": {
+                "CourseBlock": [
+                    {
+                        "designation": "TDLR Course #116",
+                        "title": "Texas Parent Taught Drivers Ed (PTDE)",
+                        "description": "Six hours with this course and you could be in the driver's seat! Includes Texas DPS written exam, a parent account, and behind-the-wheel training tools.",
+                        "productId": "1z45V4OWKu",
+                        "coupon": "PTDEAW69"
+                    },
+                    {
+                        "designation": "TDLR Course #11623",
+                        "title": "Texas Parent Taught D123rivers Ed (PTDE)",
+                        "description": "Six hours with this course and you could be in the driver's seat! Includes Texas DPS written exam, a parent account, and behind-the-wheel training tools.",
+                        "productId": "1z45V4OWKu",
+                        "coupon": "PTDEAW69"
+                    },
+                    {
+                        "LinkBlock": [
+                            {
+                                "text": "hello",
+                                "link": "/drivers-ed/texas-parent-taught/"
+                            },
+                            {
+                                "text": "hello2",
+                                "link": "/drive2rs-ed/texas-parent-taught/"
+                            },
+                            {
+                                "text": "hello3",
+                                "link": "/driv3ers-ed/texas-parent-taught/"
+                            }
+                        ]
+                    }
+                ]
             }
-          ],
-          "LinkBlock": [
-            {
-              "text": "hello",
-              "link": "/drivers-ed/texas-parent-taught/"
-            },
-            {
-              "text": "hello2",
-              "link": "/drive2rs-ed/texas-parent-taught/"
-            },
-            {
-              "text": "hello3",
-              "link": "/driv3ers-ed/texas-parent-taught/"
-            }
-          ]
         }
-      }
     ]
-  }
-  
+}
