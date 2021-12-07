@@ -13,26 +13,28 @@
               "title": "Texas Parent Taught Drivers Ed (PTDE)",
               "description": "Six hours with this course and you could be in the driver's seat! Includes Texas DPS written exam, a parent account, and behind-the-wheel training tools.",
               "productId": "1z45V4OWKu",
-              "coupon": "PTDEAW69",
-              "LinkBlock": [
-                {
-                  "text": "hello",
-                  "link": "/drivers-ed/texas-parent-taught/"
-                }
-              ]
+              "coupon": "PTDEAW69"          
             },
             {
-              "designation": "TDL324R Course #11623",
-              "title": "Texas Parent Taught D123rivers Ed (PT324DE)",
-              "description": "Six hours with this course and you could be in 234the driver's seat! Includes Texas DPS written exam, a parent account, and behind-the-wheel training tools.",
+              "designation": "TDLR Course #11623",
+              "title": "Texas Parent Taught D123rivers Ed (PTDE)",
+              "description": "Six hours with this course and you could be in the driver's seat! Includes Texas DPS written exam, a parent account, and behind-the-wheel training tools.",
               "productId": "1z45V4OWKu",
-              "coupon": "PT234DEAW69",
-              "LinkBlock": [
-                {
-                  "text": "he123llo",
-                  "link": "/driver123s-ed/texas-parent-taught/"
-                }
-              ]
+              "coupon": "PTDEAW69"        
+            }
+          ],
+          "LinkBlock": [
+            {
+              "text": "hello",
+              "link": "/drivers-ed/texas-parent-taught/"
+            },
+            {
+              "text": "hello2",
+              "link": "/drive2rs-ed/texas-parent-taught/"
+            },
+            {
+              "text": "hello3",
+              "link": "/driv3ers-ed/texas-parent-taught/"
             }
           ]
         }
